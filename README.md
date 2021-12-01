@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=DENGWENPENG&color=green)
 
 - 🌱 I’m currently learning bioinformatics
 - 💬 Ask me about Python
